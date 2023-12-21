@@ -1,4 +1,4 @@
-The IlliniBook Library is a C++ tool designed for social network analysis, specifically tailored for exploring relationships within a network. It efficiently handles tasks such as determining connections between individuals, analyzing the depth of relationships, and identifying distinct groups within the network.
+The IlliniBook Library is meant for social network analysis, specifically made for exploring relationships within a network. It efficiently handles tasks such as determining connections between individuals, analyzing the depth of relationships, and identifying distinct groups within the network.
 
 Features:
 - Constructor (IlliniBook): Initializes the IlliniBook instance by reading people and their relationships from files.
